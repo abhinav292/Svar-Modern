@@ -46,7 +46,7 @@ $(function () {
     albumArtworks = ["_1", "_2", "_3", "_4", "_5"],
     trackUrl = [
       "/music/MrDeveloper.mp3",
-      "/music/Dil Nu.mp3",
+      "https://github.com/abhinav292/Songs/raw/main/music/Dil%20Nu.mp3",
       "/music/The Local Train  Aalas Ka Pedh  Choo Lo Official Audio.mp3",
       "/music/Jiyein Kyu  Papon Harrlin Flip Indian LoFi  Bollywood LoFi.mp3",
       "/music/Ek Chhoti Si Naukri Ka HD  Naukri Songs  Kishore Kumar  Sheela Ramani.mp3",
