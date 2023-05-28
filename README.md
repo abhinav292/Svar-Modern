@@ -1,2 +1,0 @@
-# Svar Modern
- Svar Modern
