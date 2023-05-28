@@ -45,7 +45,7 @@ $(function () {
     ],
     albumArtworks = ["_1", "_2", "_3", "_4", "_5"],
     trackUrl = [
-      "/music/MrDeveloper.mp3",
+      "MrDeveloper.mp3",
       "https://github.com/abhinav292/Songs/raw/main/music/Dil%20Nu.mp3",
       "/music/The Local Train  Aalas Ka Pedh  Choo Lo Official Audio.mp3",
       "/music/Jiyein Kyu  Papon Harrlin Flip Indian LoFi  Bollywood LoFi.mp3",
