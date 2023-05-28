@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"
+    />
+    <link rel="stylesheet" href="style.css" />
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="script.js"></script>
+  </head>
+  <body>
+    <div id="app-cover">
+      <div id="bg-artwork"></div>
+      <div id="bg-layer"></div>
+      <div id="player">
+        <div id="player-track">
+          <div id="album-name"></div>
+          <div id="track-name"></div>
+          <div id="track-time">
+            <div id="current-time"></div>
+            <div id="track-length"></div>
+          </div>
+          <div id="s-area">
+            <div id="ins-time"></div>
+            <div id="s-hover"></div>
+            <div id="seek-bar"></div>
+          </div>
+        </div>
+        <div id="player-content">
+          <div id="album-art">
+            <img src="/cover/jQuery.png" class="active" id="_1" />
+            <img src="/Cover/Dil Nu.png" id="_2" />
+            <img
+              src="/Cover/The Local Train - Aalas Ka Pedh - Choo Lo (Official Audio) 2-23 screenshot.png"
+              id="_3"
+            />
+            <img src="/Cover/jiyein kyun.jpg" id="_4" />
+            <img src="/Cover/Kishore Kumar.jpg" id="_5" />
+            <div id="buffer-box">Buffering ...</div>
+          </div>
+          <div id="player-controls">
+            <div class="control">
+              <div class="button" id="play-previous">
+                <i class="fas fa-backward"></i>
+              </div>
+            </div>
+            <div class="control">
+              <div class="button" id="play-pause-button">
+                <i class="fas fa-play"></i>
+              </div>
+            </div>
+            <div class="control">
+              <div class="button" id="play-next">
+                <i class="fas fa-forward"></i>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
