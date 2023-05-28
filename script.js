@@ -47,9 +47,9 @@ $(function () {
     trackUrl = [
       "https://github.com/abhinav292/Songs/raw/main/music/Mr.%20Developer.mp3",
       "https://github.com/abhinav292/Songs/raw/main/music/Dil%20Nu.mp3",
-      "/music/The Local Train  Aalas Ka Pedh  Choo Lo Official Audio.mp3",
-      "/music/Jiyein Kyu  Papon Harrlin Flip Indian LoFi  Bollywood LoFi.mp3",
-      "/music/Ek Chhoti Si Naukri Ka HD  Naukri Songs  Kishore Kumar  Sheela Ramani.mp3",
+      "https://github.com/abhinav292/Svar-Modern/raw/main/Music/The%20Local%20Train%20%20Aalas%20Ka%20Pedh%20%20Choo%20Lo%20Official%20Audio.mp3",
+      "https://github.com/abhinav292/Svar-Modern/raw/main/Music/Jiyein%20Kyu%20%20Papon%20Harrlin%20Flip%20Indian%20LoFi%20%20Bollywood%20LoFi.mp3",
+      "https://github.com/abhinav292/Svar-Modern/raw/main/Music/Ek%20Chhoti%20Si%20Naukri%20Ka%20HD%20%20Naukri%20Songs%20%20Kishore%20Kumar%20%20Sheela%20Ramani.mp3",
     ],
     playPreviousTrackButton = $("#play-previous"),
     playNextTrackButton = $("#play-next"),
